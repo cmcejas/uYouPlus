@@ -45,6 +45,8 @@
 - For AltStore user: 
 
   - My official AltStore repo: https://qnblackcat.github.io/AltStore/
+ 
+  - # Use this link for the decrypted ipa [https://27man-my.sharepoint.com/personal/qn____27man_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fqn%5F%5F%5F%5F27man%5Fonmicrosoft%5Fcom%2FDocuments%2FDecrypted%20IPAs&ga=1](https://27man-my.sharepoint.com/personal/qn____27man_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fqn%5F%5F%5F%5F27man%5Fonmicrosoft%5Fcom%2FDocuments%2FDecrypted%20IPAs&ga=1_)
 
   - [Open in AltStore (v19.08.2-3.0.3)](http://tinyurl.com/4vzwk5hx) - It will take a while to install because AltStore needs to download the IPA first.
 
